@@ -1,0 +1,12 @@
+{
+    "accessKey": "5dac1af9-981b-11ed-a299-30d04221c033",
+    "secretKey": "914ccfff-9177-430a-bd44-a1ffa0e11abd",
+    "item_types": [
+        "Food",
+        "Beverages",
+        "Clothingsstatonaries",
+        "Electronics Device",
+        "wierless"
+    ],
+    "users": []
+}
